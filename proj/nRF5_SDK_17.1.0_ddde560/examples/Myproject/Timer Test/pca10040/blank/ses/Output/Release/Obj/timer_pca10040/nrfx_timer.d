@@ -1,5 +1,5 @@
 Output/Release/Obj/timer_pca10040/nrfx_timer.o: \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/modules/nrfx/drivers/src/nrfx_timer.c \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/modules/nrfx/drivers/src/nrfx_timer.c \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \

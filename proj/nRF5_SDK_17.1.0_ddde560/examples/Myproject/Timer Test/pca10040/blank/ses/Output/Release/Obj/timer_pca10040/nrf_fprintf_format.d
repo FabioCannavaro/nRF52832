@@ -1,5 +1,5 @@
 Output/Release/Obj/timer_pca10040/nrf_fprintf_format.o: \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/external/fprintf/nrf_fprintf_format.c \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/external/fprintf/nrf_fprintf_format.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdint.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdbool.h \
@@ -29,5 +29,5 @@ Output/Release/Obj/timer_pca10040/nrf_fprintf_format.o: \
  ../../../../../../components/libraries/util/nrf_assert.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdarg.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/external/fprintf/nrf_fprintf.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/external/fprintf/nrf_fprintf_format.h
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/external/fprintf/nrf_fprintf.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/external/fprintf/nrf_fprintf_format.h

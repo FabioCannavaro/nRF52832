@@ -1,6 +1,6 @@
 Output/Release/Obj/timer_pca10040/nrf_memobj.o: \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/memobj/nrf_memobj.c \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/memobj/nrf_memobj.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/memobj/nrf_memobj.c \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/memobj/nrf_memobj.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdint.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdlib.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/__crossworks.h \

@@ -1,10 +1,9 @@
 Output/Release/Obj/timer_pca10040/main.o: \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/examples/Myproject/Timer\ Test/main.c \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdbool.h \
- /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdint.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/examples/Myproject/Timer\ Test/main.c \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdint.h \
  ../../../../../../components/toolchain/cmsis/include/cmsis_version.h \
  ../../../../../../components/toolchain/cmsis/include/cmsis_compiler.h \
  ../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h \
@@ -14,13 +13,13 @@ Output/Release/Obj/timer_pca10040/main.o: \
  ../../../../../../modules/nrfx/mdk/nrf51_to_nrf52.h \
  ../../../../../../modules/nrfx/mdk/nrf52_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
- ../../../../../../integration/nrfx/legacy/nrf_drv_timer.h \
- ../../../../../../modules/nrfx/drivers/include/nrfx_timer.h \
+ ../../../../../../modules/nrfx/hal/nrf_gpio.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stddef.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/__crossworks.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdbool.h \
  ../../../../../../modules/nrfx/mdk/nrf_peripherals.h \
  ../../../../../../modules/nrfx/mdk/nrf52832_peripherals.h \
  ../../../../../../integration/nrfx/nrfx_glue.h \
@@ -43,9 +42,4 @@ Output/Release/Obj/timer_pca10040/main.o: \
  ../../../../../../modules/nrfx/soc/nrfx_atomic.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/sdk_resources.h \
- ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- ../../../../../../modules/nrfx/hal/nrf_timer.h \
- ../../../../../../components/boards/boards.h \
- ../../../../../../modules/nrfx/hal/nrf_gpio.h \
- ../../../../../../components/boards/pca10040.h \
- ../../../../../../components/libraries/util/app_error.h
+ ../../../../../../modules/nrfx/drivers/nrfx_errors.h

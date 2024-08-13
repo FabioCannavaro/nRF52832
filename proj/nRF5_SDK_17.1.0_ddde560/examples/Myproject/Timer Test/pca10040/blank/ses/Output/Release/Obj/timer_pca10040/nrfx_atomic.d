@@ -1,6 +1,6 @@
 Output/Release/Obj/timer_pca10040/nrfx_atomic.o: \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/modules/nrfx/soc/nrfx_atomic.c \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/modules/nrfx/soc/nrfx_atomic.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/modules/nrfx/soc/nrfx_atomic.c \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/modules/nrfx/soc/nrfx_atomic.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
@@ -43,4 +43,4 @@ Output/Release/Obj/timer_pca10040/nrfx_atomic.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/sdk_resources.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/modules/nrfx/soc/nrfx_atomic_internal.h
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/modules/nrfx/soc/nrfx_atomic_internal.h

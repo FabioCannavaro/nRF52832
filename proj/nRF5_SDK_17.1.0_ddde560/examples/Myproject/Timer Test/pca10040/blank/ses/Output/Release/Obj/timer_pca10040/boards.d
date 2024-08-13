@@ -1,6 +1,6 @@
 Output/Release/Obj/timer_pca10040/boards.o: \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/boards/boards.c \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/boards/boards.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/boards/boards.c \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/boards/boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
@@ -44,4 +44,4 @@ Output/Release/Obj/timer_pca10040/boards.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/sdk_resources.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/boards/pca10040.h
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/boards/pca10040.h

@@ -1,6 +1,6 @@
 Output/Release/Obj/timer_pca10040/app_error_weak.o: \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.c \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.c \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdint.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/stdio.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/__crossworks.h \
@@ -17,10 +17,10 @@ Output/Release/Obj/timer_pca10040/app_error_weak.o: \
  ../../../../../../modules/nrfx/mdk/nrf51_to_nrf52.h \
  ../../../../../../modules/nrfx/mdk/nrf52_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
  ../../../../../../components/drivers_nrf/nrf_soc_nosd/nrf_error.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.32a/include/string.h \
@@ -44,6 +44,6 @@ Output/Release/Obj/timer_pca10040/app_error_weak.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util_platform.h \
- /Users/han/Desktop/Sung/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util_platform.h \
+ /Users/han/Desktop/Sung/nRF52832/proj/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/strerror/nrf_strerror.h
